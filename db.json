@@ -1,0 +1,202 @@
+{
+    "students": [
+      {
+        "id": 1,
+        "firstname": "John",
+        "lastname": "Brayne",
+        "group": "n45"
+      },
+      {
+        "id": 2,
+        "firstname": "Oliver",
+        "lastname": "Connor",
+        "group": "n46"
+      },
+      {
+        "id": 3,
+        "firstname": "Harry",
+        "lastname": "Callum",
+        "group": "n45"
+      },
+      {
+        "id": 4,
+        "firstname": "Jacob",
+        "lastname": "Kyle",
+        "group": "n45"
+      },
+      {
+        "id": 5,
+        "firstname": "Charlie",
+        "lastname": "Joe",
+        "group": "n46"
+      },
+      {
+        "id": 6,
+        "firstname": "Thomas",
+        "lastname": "Reece",
+        "group": "n46"
+      },
+      {
+        "id": 7,
+        "firstname": "George",
+        "lastname": "Rhys",
+        "group": "n45"
+      },
+      {
+        "id": 8,
+        "firstname": "Oscar",
+        "lastname": "Charlie",
+        "group": "n46"
+      },
+      {
+        "id": 9,
+        "firstname": "James",
+        "lastname": "Damian",
+        "group": "n45"
+      },
+      {
+        "id": 10,
+        "firstname": "Jack",
+        "lastname": "Lewis",
+        "group": "n46"
+      },
+      {
+        "id": 11,
+        "firstname": "Leo",
+        "lastname": "Maxwell",
+        "group": "n45"
+      },
+      {
+        "id": 12,
+        "firstname": "Henry",
+        "lastname": "Samuel",
+        "group": "n45"
+      },
+      {
+        "id": 13,
+        "firstname": "Archie",
+        "lastname": "Finn",
+        "group": "n46"
+      },
+      {
+        "id": 14,
+        "firstname": "Freddie",
+        "lastname": "Elijah",
+        "group": "n45"
+      },
+      {
+        "id": 15,
+        "firstname": "Theo",
+        "lastname": "Elliot",
+        "group": "n46"
+      }
+    ],
+    "teachers": [
+      {
+        "id": 1,
+        "firstname": "Noah",
+        "lastname": "James",
+        "level": "middle",
+        "groups": ["n46"]
+      },
+      {
+        "id": 2,
+        "firstname": "Liam",
+        "lastname": "John",
+        "level": "junior",
+        "groups": ["n45", "n46"]
+      },
+      {
+        "id": 3,
+        "firstname": "Mason",
+        "lastname": "Robert",
+        "level": "senior",
+        "groups": ["n45"]
+      },
+      {
+        "id": 4,
+        "firstname": "Jacob",
+        "lastname": "Michael",
+        "level": "middle",
+        "groups": ["n45", "n46"]
+      },
+      {
+        "id": 5,
+        "firstname": "William",
+        "lastname": "David",
+        "level": "senior",
+        "groups": ["n46"]
+      },
+      {
+        "id": 6,
+        "firstname": "Ethan",
+        "lastname": "William",
+        "level": "junior",
+        "groups": ["n45", "n46"]
+      },
+      {
+        "id": 7,
+        "firstname": "Michael",
+        "lastname": "Richard",
+        "level": "senior",
+        "groups": ["n46"]
+      },
+      {
+        "id": 8,
+        "firstname": "Alexander",
+        "lastname": "Joseph",
+        "level": "middle",
+        "groups": ["n45", "n46"]
+      },
+      {
+        "id": 9,
+        "firstname": "James",
+        "lastname": "Charles",
+        "level": "senior",
+        "groups": ["n45"]
+      },
+      {
+        "id": 10,
+        "firstname": "Daniel",
+        "lastname": "Thomas",
+        "level": "junior",
+        "groups": ["n45", "n46"]
+      },
+      {
+        "id": 11,
+        "firstname": "Max",
+        "lastname": "Alexander",
+        "level": "middle",
+        "groups": ["n46"]
+      },
+      {
+        "id": 12,
+        "firstname": "Henry",
+        "lastname": "Owen",
+        "level": "junior",
+        "groups": ["n45", "n46"]
+      },
+      {
+        "id": 13,
+        "firstname": "Arthur",
+        "lastname": "George",
+        "level": "senior",
+        "groups": ["n45"]
+      },
+      {
+        "id": 14,
+        "firstname": "Samuel",
+        "lastname": "Ethan",
+        "level": "middle",
+        "groups": ["n45", "n46"]
+      },
+      {
+        "id": 15,
+        "firstname": "Oliver",
+        "lastname": "Isaac",
+        "level": "senior",
+        "groups": ["n46"]
+      }
+    ]
+  }
+  
